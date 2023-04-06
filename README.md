@@ -87,7 +87,7 @@
                 alt=facebook /></a> &ensp;
 <a href=https://www.linkedin.com/in/pirathees-kamalanathan/ ><img src="https://img.shields.io/badge/linkedin-https://www.linkedin.com/in/pirathees--kamalanathan/-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
                 alt=linkedin /></a> &ensp;
-<a href=https://medium.com/pirathees.medium.com/                ><img src="https://img.shields.io/badge/medium-@https://pirathees.medium.com/               -%231c1c1f.svg?style=flat&logo=medium&logoColor=white" 
+<a href=https:pirathees.medium.com/                ><img src="https://img.shields.io/badge/medium-@https://pirathees.medium.com/               -%231c1c1f.svg?style=flat&logo=medium&logoColor=white" 
                 alt=medium /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
