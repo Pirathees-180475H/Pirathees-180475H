@@ -83,11 +83,11 @@
 <!--START_SECTION:SOCIAL-->
 ## <p align = left> 🌏 	Connect with me </p>
 <div align = left>
-<a href=https://facebook.com/https://www.facebook.com/kamalanathan.pirathees/ ><img src="https://img.shields.io/badge/facebook-https://www.facebook.com/kamalanathan.pirathees/-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
+<a href=https://facebook.com/kamalanathan.pirathees/ ><img src="https://img.shields.io/badge/facebook-https://www.facebook.com/kamalanathan.pirathees/-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
-<a href=https://www.linkedin.com/in/https://www.linkedin.com/in/pirathees-kamalanathan/ ><img src="https://img.shields.io/badge/linkedin-https://www.linkedin.com/in/pirathees--kamalanathan/-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
+<a href=https://www.linkedin.com/in/pirathees-kamalanathan/ ><img src="https://img.shields.io/badge/linkedin-https://www.linkedin.com/in/pirathees--kamalanathan/-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
                 alt=linkedin /></a> &ensp;
-<a href=https://medium.com/@https://pirathees.medium.com/                ><img src="https://img.shields.io/badge/medium-@https://pirathees.medium.com/               -%231c1c1f.svg?style=flat&logo=medium&logoColor=white" 
+<a href=https://medium.com/pirathees.medium.com/                ><img src="https://img.shields.io/badge/medium-@https://pirathees.medium.com/               -%231c1c1f.svg?style=flat&logo=medium&logoColor=white" 
                 alt=medium /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
