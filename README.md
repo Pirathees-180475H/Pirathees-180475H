@@ -5,6 +5,7 @@
 <!--START_SECTION:SUBTITLE-->
 ### <p align = left>A passionate Engineer from Sri Lanka</p>
 <!--END_SECTION:SUBTITLE-->
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
 
 <!--START_SECTION:SKILL-->
 ## <p align = left> 🖥️ 	Technologies </p>
